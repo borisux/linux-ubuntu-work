@@ -1,0 +1,16 @@
+sudo apt-get upgrade
+
+
+Install utils:
+sudo apt-get install git vim 
+
+
+Virtual Box 
+wget https://download.virtualbox.org/virtualbox/6.1.8/virtualbox-6.1_6.1.8-137981~Ubuntu~xenial_amd64.deb
+sudo dpkg -i virtualbox-6.1_6.1.8-137981~Ubuntu~xenial_amd64.deb 
+
+apt-get -f -y install
+sudo apt install virtualbox
+
+Openconnect:
+sudo apt install openconnect
